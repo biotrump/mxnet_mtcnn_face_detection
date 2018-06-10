@@ -21,6 +21,8 @@
 Only tested on Linux and Mac
 
 ## Test
+$source activate python2
+switch to python2
 
 run:
 
